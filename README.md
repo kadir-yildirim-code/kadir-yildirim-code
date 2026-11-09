@@ -23,8 +23,8 @@ I have worked on projects using C#, .NET, Windows Forms, Python, PHP, and MySQL.
 
 ## Featured Projects
 
-- **[Kadir Coaching – Dynamic Blog & Content Management System](https://github.com/kadir-yildirim-code/kadir-coaching-blog)** — PHP, MySQL, MySQLi, Bootstrap 5. A dynamic blog with category browsing and an admin panel for post management.
-- **[Siber Savaş: Bit Yolu](https://github.com/kadir-yildirim-code/siber-savas-rpg)** — Python, OOP. A terminal-based turn-based RPG demonstrating inheritance and polymorphism.
+- **[Kadir Coaching – Dynamic Blog & Content Management System](https://github.com/kadir-yildirim-code/kadir-coaching-blog)** — PHP, MySQL, MySQLi, Bootstrap 5. A dynamic blog with category browsing, post CRUD, CSRF-protected admin forms, and explicit role-based admin access.
+- **[Siber Savaş: Bit Yolu](https://github.com/kadir-yildirim-code/siber-savas-rpg)** — Python, OOP, unittest. A terminal-based turn-based RPG demonstrating inheritance and polymorphism, with regression tests for core game mechanics.
 
 ## Previous Project Experience
 
