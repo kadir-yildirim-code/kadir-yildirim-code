@@ -25,7 +25,10 @@ I have worked on projects using C#, .NET, Windows Forms, Python, PHP, and MySQL.
 
 - **[Kadir Coaching – Dynamic Blog & Content Management System](https://github.com/kadir-yildirim-code/kadir-coaching-blog)** — PHP, MySQL, MySQLi, Bootstrap 5. A dynamic blog with category browsing and an admin panel for post management.
 - **[Siber Savaş: Bit Yolu](https://github.com/kadir-yildirim-code/siber-savas-rpg)** — Python, OOP. A terminal-based turn-based RPG demonstrating inheritance and polymorphism.
-- **Workout Tracking System** — C#, .NET, Windows Forms, MySQL. A desktop workout tracker with user-specific dashboards, training-volume calculations, progress charts, and an admin panel. Source code is not currently published.
+
+## Previous Project Experience
+
+- **Workout Tracking Desktop Application** — C#, .NET, Windows Forms, MySQL. Developed a desktop workout tracker with user-specific accounts, training logs, workout-volume calculations, progress charts, and an admin panel for exercise management. This is a previous project; its source code is not part of the public repositories.
 
 ## Connect with Me
 
