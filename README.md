@@ -27,4 +27,4 @@ I am currently organizing my projects and preparing their repositories. I will a
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kadir-y%C4%B1ld%C4%B1r%C4%B1m-17b404435/)
+- [LinkedIn](https://www.linkedin.com/in/kadir-y%C4%B1ld%C4%B1r%C4%B1m-17b404435)
