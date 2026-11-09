@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kadir Yıldırım 👋
 
-<!--
-**kadir-yildirim-code/kadir-yildirim-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer
 
-Here are some ideas to get you started:
+I am a Computer Programming graduate interested in building desktop and web applications. I enjoy working with backend logic, databases, and data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have worked on projects using C#, .NET, Windows Forms, Python, PHP, and MySQL. I like learning new technologies by building practical projects and improving them step by step.
+
+## Technologies & Tools
+
+- **Programming languages:** C#, Python, PHP, JavaScript
+- **Desktop development:** .NET, Windows Forms (WinForms)
+- **Web development:** HTML, CSS, Bootstrap 5
+- **Databases:** MySQL, Microsoft SQL Server
+- **Tools:** Visual Studio, Visual Studio Code, phpMyAdmin, Laragon, XAMPP
+
+## Areas of Interest
+
+- Backend development
+- Database design and operations
+- Data processing and application logic
+- Desktop and web application development
+
+## Projects
+
+I am currently organizing my projects and preparing their repositories. I will add project links and details here as they are published.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kadir-y%C4%B1ld%C4%B1r%C4%B1m-17b404435/)
